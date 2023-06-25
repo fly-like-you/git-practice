@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb6afc0-7164-486b-80e0-c9e765e2804d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/cheetas.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leopards.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheetas.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leopards.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/leopards.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lions.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tigers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yaml" afterDir="false" />
     </list>
