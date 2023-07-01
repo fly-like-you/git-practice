@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5d2522-205e-4173-a386-483f257b6be8" name="변경" comment="Commit with IntelliJ">
-      <change beforePath="$PROJECT_DIR$/tigers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leopards.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/leopards.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,49 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Edit Tigers coach">
+      <created>1688184162770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184162770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edit Tigers members">
+      <created>1688184197192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184197192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edit Kim to Tigers">
+      <created>1688184460518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184460518</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Edit Park to Tigers">
+      <created>1688184489825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184489825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edit Kim to Tigers">
+      <created>1688184501641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184501641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -27,7 +70,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -38,5 +81,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edit Tigers coach" />
+    <MESSAGE value="Edit Tigers members" />
+    <MESSAGE value="Edit Park to Tigers" />
+    <MESSAGE value="Edit Kim to Tigers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Kim to Tigers" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
